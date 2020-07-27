@@ -1,0 +1,36 @@
+/*
+Marinara Red
+CF1C44
+
+Wine
+5e1211
+
+Espresso
+543136
+
+Leafy Green
+0B9446
+
+Cafe
+543136
+
+Cannoli
+D8C6B8
+*/
+
+.bgimg-1 {
+    background-image: url("../media/store1.jpg");
+}
+
+.bgimg-2 {
+    background-image: url("../media/store2.jpg");
+}
+
+.bgimg-3 {
+    background-image: url("../media/store3.jpg");
+}
+
+.injectedComment {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}

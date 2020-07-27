@@ -1,0 +1,52 @@
+/*
+Marinara Red
+CF1C44
+
+Wine
+5e1211
+
+Espresso
+543136
+
+Leafy Green
+0B9446
+
+Cafe
+543136
+
+Cannoli
+D8C6B8
+*/
+
+#body, #contentWrapper {
+    background-color: #543136;
+}
+
+#menuContentWrapper {
+    background-color: #efefef;
+}
+
+#menuContent {
+    box-shadow: 0 0 2px #666;
+}
+
+.menuItemCategoryTitle {
+    box-shadow: 0;
+}
+
+.menuItemCategory {
+    background-color: #D8C6B8;
+}
+
+#meals, #drinks {
+    background-color: white;
+    color: #543136;
+}
+
+.navCategoryBordered {
+    border-bottom: 1px solid white;
+}
+
+.navCategory > li > a {
+    color: black;
+}
